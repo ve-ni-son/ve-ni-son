@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Venison</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Your Dream Book made Real</description>
+	<lastBuildDate>Tue, 19 Apr 2022 09:05:14 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Calcolare il costo di stampa</title>
+		<link>/index.php/calcolare-il-costo-di-stampa/</link>
+					<comments>/index.php/calcolare-il-costo-di-stampa/#respond</comments>
+		
+		<dc:creator><![CDATA[edo]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2022 09:02:29 +0000</pubDate>
+				<category><![CDATA[Venison]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[I costi di stampa variano a seconda del numero di pagine e del tipo di inchiostro (nero o a colori) Per calcolare il costo di stampa del tuo libro cartaceo, utilizziamo la seguente formula: Costo fisso + (numero di pagine * costo per pagina) = costo di stampa Libro cartaceo con inchiostro nero: inchiostro nero [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I costi di stampa variano a seconda del numero di pagine e del tipo di inchiostro (nero o a colori)</p>
+
+
+
+<p>Per calcolare il costo di stampa del tuo libro cartaceo, utilizziamo la seguente formula:</p>
+
+
+
+<p><em>Costo fisso + (numero di pagine * costo per pagina) = costo di stampa</em></p>
+
+
+
+<p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-pale-pink-color">Libro cartaceo con inchiostro nero:</mark></strong></p>
+
+
+
+<p><strong>inchiostro nero con 24-108 pagine</strong></p>
+
+
+
+<p>1,90 EUR per libro (solo costo fisso)</p>
+
+
+
+<p><strong>inchiostro nero con 110-828 pagine</strong></p>
+
+
+
+<p>0,60 EUR (costo fisso) + 0,012 EUR per pagina</p>
+
+
+
+<p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-pale-pink-color">Libro cartaceo con inchiostro a colori:</mark></strong></p>
+
+
+
+<p><strong>inchiostro a colori con 24-40 pagine</strong></p>
+
+
+
+<p>2,40 EUR per libro (solo costo fisso)</p>
+
+
+
+<p><strong>inchiostro a colori con 48-848 pagine</strong></p>
+
+
+
+<p>0,60 EUR (costo fisso) + 0,06 EUR per pagina</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/calcolare-il-costo-di-stampa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quali formati scegliere</title>
+		<link>/index.php/quali-formati-scegliere/</link>
+					<comments>/index.php/quali-formati-scegliere/#respond</comments>
+		
+		<dc:creator><![CDATA[edo]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2022 08:53:56 +0000</pubDate>
+				<category><![CDATA[Venison]]></category>
+		<guid isPermaLink="false">/?p=16</guid>
+
+					<description><![CDATA[Se hai qualche dubbio in merito a quali formati scegliere, ecco la tabella riassuntiva: Formato Inchiostro nero e carta di colore bianco Inchiostro nero e carta color crema Inchiostro a colori standard e carta di colore bianco Inchiostro a colori Premium e carta di colore bianco 12,7 x 20,32 cm (5&#8243; x 8&#8243;) 24 &#8211; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Se hai qualche dubbio in merito a quali formati scegliere, ecco la <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-pale-pink-color"><strong>tabella riassuntiva</strong></mark>:</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Formato</strong></td><td><strong>Inchiostro nero e carta di colore bianco</strong></td><td><strong>Inchiostro nero e carta color crema</strong></td><td><strong>Inchiostro a colori standard e carta di colore bianco</strong></td><td><strong>Inchiostro a colori Premium e carta di colore bianco</strong></td></tr><tr><td>12,7 x 20,32 cm (5&#8243; x 8&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>12,85 x 19,84 cm (5,06&#8243; x 7,81&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>13,34 x 20,32 cm (5,25&#8243; x 8&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>13,97 x 21,59 cm (5,5&#8243; x 8,5&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>15,24 x 22,86 cm (6&#8243; x 9&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>15,6 x 23,39 cm (6,14&#8243; x 9,21&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>16,99 x 24,41 cm (6,69&#8243; x 9,61&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>17,78 x 25,4 cm (7&#8243; x 10&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>18,9 x 24,61 cm (7,44&#8243; x 9,69&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>19,05 x 23,5 cm (7,5&#8243; x 9,25&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>20,32 x 25,4 cm (8&#8243; x 10&#8243;)</td><td>24 &#8211; 828</td><td>24 &#8211; 776</td><td>72 &#8211; 600</td><td>24 &#8211; 828</td></tr><tr><td>20,96 x 15,24 cm (8,25&#8243; x 6&#8243;)</td><td>24 &#8211; 800</td><td>24 &#8211; 750</td><td>72 &#8211; 600</td><td>24 &#8211; 800</td></tr><tr><td>20,96 x 20,96 cm (8,25&#8243; x 8,25&#8243;)</td><td>24 &#8211; 800</td><td>24 &#8211; 750</td><td>72 &#8211; 600</td><td>24 &#8211; 800</td></tr><tr><td>21,59 x 21,59 cm (8,5&#8243; x 8,5&#8243;)</td><td>24 &#8211; 590</td><td>24 &#8211; 550</td><td>72 &#8211; 600</td><td>24 &#8211; 590</td></tr><tr><td>21,59 x 27,94 cm (8,5&#8243; x 11&#8243;)</td><td>24 &#8211; 590</td><td>24 &#8211; 550</td><td>72 &#8211; 600</td><td>24 &#8211; 590</td></tr><tr><td>21 x 29,7 cm (8,27&#8243; x 11,69&#8243;)</td><td>24 &#8211; 780</td><td>24 &#8211; 730</td><td>Non disponibile</td><td>24 &#8211; 590</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/quali-formati-scegliere/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chi siamo</title>
+		<link>/index.php/chi-siamo/</link>
+		
+		<dc:creator><![CDATA[edo]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2022 08:21:53 +0000</pubDate>
+				<category><![CDATA[Venison]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Venison.it è la casa editrice dell&#8217;omonima associazione che si occupa di pubblicare libri gratuitamente tramite la piattaforma Amazon. Non siamo una casa editrice a pagamento. Non chiediamo acquisti obbligati di copie. Non ci sono costi nascosti. {siamo una no profit 😉} Pubblichiamo il tuo libro e te lo inviamo nel numero di copie che desideri, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Venison.it</strong> è la casa editrice dell&#8217;omonima associazione che si occupa di pubblicare libri gratuitamente tramite la <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-pale-pink-color"><strong>piattaforma Amazon</strong></mark>. </p>
+
+
+
+<p>Non siamo una casa editrice a pagamento.</p>
+
+
+
+<p>Non chiediamo acquisti obbligati di copie.</p>
+
+
+
+<p>Non ci sono costi nascosti. {<em>siamo una no profit <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em>}</p>
+
+
+
+<p>Pubblichiamo il tuo libro e te lo inviamo nel numero di copie che desideri, al solo costo di stampa.</p>
+
+
+
+<p>Ti aiutiamo a impaginare il tuo libro, a designare la copertina, lo pubblichiamo e te lo inviamo.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
